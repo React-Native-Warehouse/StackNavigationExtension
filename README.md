@@ -1,0 +1,2 @@
+# StackNavigationExtension
+StackNavigationExtension including react-native navigation
